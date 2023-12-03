@@ -1,4 +1,13 @@
-# To-Do-List 
-Online, responsive, To Do List App that can save the tasks into local storage.
+# Iconic-To-Do-List
+Simple To-Do list application. 
 
-Whenever you enter from a device, your information won't be lost from the device unless clear local storage by clearing the history or doing something else.
+## Introduction
+To-Do list is one of the most popular applications created by beginner programmers. In a way, this type of application is already referred to as iconic and even legendary. I made this simple application to become more familiar with JavaScript.
+
+## Used technologies
+* HTML
+* CSS
+* JavaScript
+
+## Description
+To-Do list helps you create a list of things you want to do throughout the day.
